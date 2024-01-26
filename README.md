@@ -1,4 +1,4 @@
-# Diabetic-Analysis:
+# Diabetic_Readmit_Analysis:
 
 This modules involves analysis of more than 1,00,000 Clinical Database Patient Records aiming to understand the factors that are respondible for early readmission of a patient given his/her clinical information. 
 
